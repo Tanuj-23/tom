@@ -1,4 +1,4 @@
 # tom
 First git repository
 
-Author- Tanuj
+Author- Tanuj Joshi
